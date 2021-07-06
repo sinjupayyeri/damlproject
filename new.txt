@@ -1,2 +1,6 @@
 def newfn():
    print('jhfgjdff')
+
+
+def fun2():
+  dkjnskdfldjf
